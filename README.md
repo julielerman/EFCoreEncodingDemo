@@ -1,5 +1,5 @@
 # EFCoreEncodingDemo
-Shows how to ensure special characters can be output in EF Core logs
+Shows how to ensure special characters can be output in EF Core logs to deal with Windows console defaults. 
 
 This problem waas reaised by a Pluralsight viewer, Mir Newaz. 
 
